@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 😄 Pronouns: him
+- 😄 Pronouns: he/his/him
 - ⚡ Fun fact: you cant lick your elbow
 
 <!---
