@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hamzabinamjad1
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: you cant lick your elbow
+- ⚡ Fun fact: you can't lick your elbow
 
 <!---
 hamzabinamjad1/hamzabinamjad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
