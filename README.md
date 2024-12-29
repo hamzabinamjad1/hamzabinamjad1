@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @hamzabinamjad1
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: you can't lick your elbow
-
-<!---
-hamzabinamjad1/hamzabinamjad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Hamza Bin Amjad
+👀 I’m interested in learning new things
+🌱 I’m currently learning Full Stack Web Development
+📫 How to reach me:
+  Linkedin: https://www.linkedin.com/in/hamza-bin-amjad-7857a329b/
+😄 Pronouns: he/his/him
